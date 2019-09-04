@@ -21,7 +21,7 @@ export default class Main extends Component {
                 minLength: {value: 6},
                 maxLength: {value: 16}
               }} />
-              <div>Multi select</div>
+              <div>Policies Multi select</div>
               <Button color="primary">Submit</Button>
             </AvForm>
           </Col>
